@@ -1,0 +1,38 @@
+# Sales Dashboard - Power BI & PPT Summary
+
+## 📊 Project Overview
+This project demonstrates an **interactive Sales Dashboard** built using **Power BI**.  
+It visualizes key sales insights, customer trends, and performance metrics.  
+Additionally, a **PowerPoint summary** has been created to present the insights in a professional format.
+
+## 🚀 Key Features
+- **Total Sales**: 2.33M  
+- **Maximum Profit**: 8.40K  
+- **Average Discount**: 0.16  
+- **Total Quantity Sold**: 39K  
+
+### Visual Insights:
+- Sales by **Sub-Category** and **Year (2020–2023 trends)**  
+- Sales distribution by **Category (Furniture, Technology, Office Supplies)**  
+- Top **Customers by Sales Contribution**  
+- Time-series trends (Sales by Day & Month)  
+
+## 📂 Repository Structure
+- `Sales_Dashboard_Summary_Pro.pptx` → Final presentation with visual highlights  
+- `Sales_Dashboard_Summary_With_Image.pptx` → Presentation including the Power BI dashboard image  
+- `Sales_Dashboard_Summary.pptx` → Initial summary presentation without visuals  
+- `Screenshot.png` → Snapshot of the interactive dashboard (Power BI)  
+
+## 🛠️ Tools Used
+- **Power BI** → Dashboard creation & visualization  
+- **Python (python-pptx)** → Automated PowerPoint generation  
+- **MS PowerPoint** → Professional presentation formatting  
+
+## 📌 How to Use
+1. Open the Power BI file (`.pbix`) if available to explore the interactive dashboard.  
+2. Review the **PPT summaries** for management-ready insights.  
+3. Clone the repository and adapt the code for your own dashboard automation.
+
+```bash
+git clone https://github.com/yourusername/sales-dashboard.git
+cd sales-dashboard
